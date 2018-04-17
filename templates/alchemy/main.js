@@ -31,6 +31,9 @@ const showPageFromHash = (hash) => {
     } else {
       page.classList.add('hide');
     }
+    if (typeof Prism != 'undefined') {
+      Prism.highlightAll();
+    }
   });
   return activeIndex;
 };

@@ -181,7 +181,6 @@ a {
 .content blockquote :last-child {padding-bottom:0;margin-bottom:0}
 .content a.no-underline,.content pre a {color:#9768d1;text-shadow:none;text-decoration:none;background-image:none}
 .content a.no-underline:active,.content a.no-underline:focus,.content a.no-underline:hover,.content a.no-underline:visited,.content pre a:active,.content pre a:focus,.content pre a:hover,.content pre a:visited {color:#9768d1;text-decoration:none}
-.content code {font-weight:400;background-color:#f7f9fc;vertical-align:baseline;border-radius:2px;padding:.1em .2em;border:1px solid #d2ddee}
 .content pre {margin:1.5em 0}
 .content img {max-width: 100%}
 
